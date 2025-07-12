@@ -8,6 +8,8 @@ pip install seaborn
 pip install matplotlib
 pip install pyecharts
 pip install numpy as np
+
+
 (2)把文件下载好后 复制下载地址
 在命令行中切换到项目路径，然后输入jupyter notebook
 最后打开电商用户行为分析.ipynb就完成啦
