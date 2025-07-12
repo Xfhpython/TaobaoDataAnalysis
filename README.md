@@ -1,5 +1,7 @@
 本项目数据来源于https://www.kaggle.com/datasets/yijiajia/taobao-userbehavior
-由于数据据过于庞大，本项目只截取了前一百万行数据进行分析
+ 由于数据据过于庞大，本项目只截取了前一百万行数据进行分析
+
+
 本项目的操作流程：
 (1)在使用本项目之前需要把必须的库提前下载好
 pip install jupyter 
