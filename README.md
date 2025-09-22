@@ -22,3 +22,5 @@ Result（结果）：
 
 本项目展现了处理真实、海量业务数据的能力，以及将技术分析转化为商业价值的意识。
 <img width="1190" height="675" alt="image" src="https://github.com/user-attachments/assets/3be16256-73f4-4f3d-b67d-7388ac1acc81" />
+<img width="941" height="740" alt="image" src="https://github.com/user-attachments/assets/9a9e301b-212f-4f2b-83e1-3b810371bc4f" />
+
